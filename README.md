@@ -6,8 +6,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 Display the count of Post Page Projects, Post Categories & Plugins in the 'At a glance' widget.
 
-== Description ==
-Here 5P refers to Post Page Projects, Post Categories & Plugins. Displays the number of posts, pages, projects, post categories and plugins on the "At a Glance" page in the WordPress dashboard.
+Description: Here 5P refers to Post Page Projects, Post Categories & Plugins. Displays the number of posts, pages, projects, post categories and plugins on the "At a Glance" page in the WordPress dashboard.
 
 == Installation ==
 

@@ -1,6 +1,6 @@
 === 5P Counter ===
 Contributors: markmemayank
-Tags: posts counter, pages counter, projects counter, posts categories counter, active plugins counter, total installed plugins counter, plugin counter at a glance page  
+Tags: posts counter, Pages counter, projects counter, posts categories counter, active plugins counter, total installed plugins counter, plugin counter at a glance page  
 Tested up to: 6.1
 Stable tag: 1.0
 License: GPLv2 or later

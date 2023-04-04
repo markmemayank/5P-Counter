@@ -3,7 +3,7 @@ Contributors: markmemayank
 Tags: posts counter, Pages counter, projects counter, posts categories counter, active plugins counter, total installed plugins counter, plugin counter at a glance page  
 Tested up to: 6.1
 Stable tag: 1.0
-License: GPLv2 or later
+License: GPL2 or later
 Display the count of Post Page Projects, Post Categories & Plugins in the 'At a glance' widget.
 
 Description: Here 5P refers to Post Page Projects, Post Categories & Plugins. Displays the number of posts, pages, projects, post categories and plugins on the "At a Glance" page in the WordPress dashboard.

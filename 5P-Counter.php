@@ -2,9 +2,9 @@
 /*
 Plugin Name: 5P Counter
 Description:  Displays the number of posts, pages, projects, post categories and plugins on the "At a Glance" page in the WordPress dashboard. Here 5P referes to Post Page Projects, Post Categories & Plugins.
-Version: 1.0
+Version: 1.2
 Author: Mayank Kumar
-Author URI: https://markmemayank.com
+Author URI: https://markmemayank.com/
 License: GPL2
 */
 

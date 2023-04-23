@@ -17,8 +17,8 @@ function aag_stats_dashboard_widget_function() {
   $num_all_plugins = count(get_plugins());
 
   echo "<ul>";
-  echo "<li>" . $num_posts->publish . " Post</li>";
-  echo "<li>" . $num_pages->publish . " Page</li>";
+  echo "<li>" . $num_posts->publish . " Posts</li>";
+  echo "<li>" . $num_pages->publish . " Pages</li>";
   echo "<li>" . $num_projects->publish . " Projects</li>";
   echo "<li>" . $num_categories . " Post Categories</li>";
   echo "<li>" . $num_active_plugins . " Active Plugins</li>";

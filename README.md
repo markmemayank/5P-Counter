@@ -1,7 +1,7 @@
 === 5P Counter ===
 Contributors: Mayank Kumar
 Tags: posts counter, Pages counter, projects counter, posts categories counter, active plugins counter, total installed plugins counter, plugin counter at a glance page  
-Tested up to: 6.1
+Tested up to: 6.3
 Stable tag: 1.0
 License: GPL2 or later
 Display the count of Post Page Projects, Post Categories & Plugins in the 'At a glance' widget.
